@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+xgboost
+statsmodels
+ta
+matplotlib
+seaborn
+psutil
+requests
+pyotp
+logzero
+websocket-client
+smartapi-python
+python-dotenv
